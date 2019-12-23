@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "pnp-spfx-carousel-client-side-solution",
+    "id": "563ca1ea-fef9-46c5-9556-ef925ce47d6b",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/pnp-spfx-carousel.sppkg"
+  }
+}
